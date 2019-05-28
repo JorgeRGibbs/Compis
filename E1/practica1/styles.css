@@ -1,0 +1,45 @@
+.coment { color : #455a64 }
+.auto { color : #FFA500 }
+.break { color : #FFA500 }
+.case { color : #FFA500 }
+.char { color : #FFA500 }
+.const { color : #FFA500 }
+.continue { color : #FFA500 }
+.default { color : #FFA500 }
+.do { color : #FFA500 }
+.double { color : #FFA500 }
+.else { color : #FFA500 }
+.enum { color : #FFA500 }
+.extern { color : #FFA500 }
+.float { color : #FFA500 }
+.for { color : #FFA500 }
+.goto { color : #FFA500 }
+.if { color : #FFA500 }
+.int { color : #FFA500 }
+.long { color : #FFA500 }
+.register { color : #FFA500 }
+.return { color : #FFA500 }
+.short { color : #FFA500 }
+.signed { color : #FFA500 }
+.sizeof { color : #FFA500 }
+.static { color : #FFA500 }
+.struct { color : #FFA500 }
+.switch { color : #FFA500 }
+.typedef { color : #0d47a1 }
+.union { color : #FFA500 }
+.unsigned { color : #FFA500 }
+.void { color : #FFA500 }
+.volatile { color : #FFA500 }
+.while { color : #FFA500 } 
+.ids {color : #0000FF }
+.hex {color : #880e4f } 
+.oct {color : #ff3d00 } 
+.dec {color : #512da8 } 
+.ops { color : #37474f}
+.flecha { color : #303f9f}
+.brackets { color : #9b0000 }
+.typicalsymbols { color : black}
+.bitw { color : blue}
+.numeros {color : #FFA500}
+.stringliteral {color : red}
+.constant {color:black ; font-style: italic;}
